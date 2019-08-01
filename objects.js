@@ -1,5 +1,5 @@
-var playlist = { coldplay : 'Everglow',
-            snow patrol : 'NewYork'}
+var playlist = { 'coldplay' : 'Everglow',
+            'snow patrol' : 'NewYork'}
 
 function updatePlaylist (playlist,artist,title) {
   playlist.artist = "title"
